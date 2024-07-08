@@ -2,7 +2,9 @@
 
 📞 Phone: (+92) 343 2607677, (+92) 3353466851  
 📧 Email: aminnazir.net@gmail.com  
-🔗 LinkedIn: [Amin Nazir on LinkedIn](https://www.linkedin.com/in/amin-nazir/)
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/amin-nazir/" target="_blank">Amin Nazir on LinkedIn</a>  
+📄 Resume: <a href="https://github.com/Aminnazir/Aminnazir/blob/main/Amin%20Nazir%20Resume.pdf" target="_blank">Amin Nazir's Resume</a> 
+
 
 ## About Me
 
